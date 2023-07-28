@@ -1,44 +1,33 @@
-- 👋 Hi, I’m @Igor Rukaleev
-I am an iOS Developer
+- 👋 Hi, I’m Igor Rukaleev
+I am an iOS Developer 👨🏽‍💻
 
 
-My english level is B2+
+My english level is B2➕
 
 
-In my profile you can find my projects with using different swift techologies
+In my profile you can find my projects with using different swift techologies 🗄
 
 
 
 My stack is that:
 
 
-Swift
-
-
+Swift,
 SwiftUI, UIKit, iOS SDK
 
 MVC, MVVM, MVP, VIPER, CleanSwift
 
-
-OOP 
-
-
-GitHub
-
-
-GCD
-
-Unit Test
-
-
+OOP, GCD, Unit Test
 Work с http, API, JSON
-
 
 SOLID, KISS, DRY, YAGNI
 
 CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, FireBase
+
+
+You can see part of my projects here 👇🏽😊
  
 
 <!---
