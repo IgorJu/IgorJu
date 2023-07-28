@@ -13,12 +13,11 @@ My stack is that:
 
 
 Swift,
-SwiftUI, UIKit, iOS SDK
-
+SwiftUI, UIKit, iOS SDK,
 MVC, MVVM, MVP, VIPER, CleanSwift
 
 OOP, GCD, Unit Test
-Work с http, API, JSON
+Work with HTTP, API, JSON
 
 SOLID, KISS, DRY, YAGNI
 
