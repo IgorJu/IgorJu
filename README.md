@@ -25,6 +25,9 @@ CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, Firebase
 
+Первый командный проект совместная работа в одном репозитории - https://github.com/IgorJu/We-are-Developers
+
+
 Realm проект - https://github.com/IgorJu/RealmApp
 
 
