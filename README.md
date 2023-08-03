@@ -27,6 +27,7 @@ CoreData, UserDefaults, Realm, Firebase
 
 Первый командный проект совместная работа в одном репозитории - https://github.com/IgorJu/We-are-Developers
 
+Проект с парсингом JSON Rick and Morty https://github.com/IgorJu/Rick-and-Morty
 
 Realm проект - https://github.com/IgorJu/RealmApp
 
