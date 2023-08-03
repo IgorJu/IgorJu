@@ -30,6 +30,8 @@ Realm проект - https://github.com/IgorJu/RealmApp
 
 Firebase проект 🔥 - https://github.com/IgorJu/firebase_Tasklist
 
+MVVM SwiftUI Rick and morty проект  - https://github.com/IgorJu/RickAndMorty_MVVM_SUI
+
 
 You can see part of my projects here 👇🏽😊
  
