@@ -36,7 +36,7 @@ https://github.com/IgorJu/Login-Logout.SUI - Проект с авторизац�
 https://github.com/IgorJu/RealmApp - Realm проект 
 
 
-https://github.com/IgorJu/firebase_Tasklist - Firebase проект(Firebase Authentification, Firebase Database) MVC 🔥 
+https://github.com/IgorJu/firebase_Tasklist - Firebase 🔥 проект(Firebase Authentification, Firebase Database) MVC  
 
 https://github.com/IgorJu/RickAndMorty_MVVM_SUI - Проект с испольозванием архитектурного паттерна MVVM на SwiftUI Rick and morty
 
