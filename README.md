@@ -25,10 +25,12 @@ CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, Firebase
 
-Realm Project -
+Realm проект - https://github.com/IgorJu/RealmApp
 
 
-Firebase project 🔥 - https://github.com/IgorJu/firebase_Tasklist
+Firebase проект 🔥 - https://github.com/IgorJu/firebase_Tasklist
+
+
 You can see part of my projects here 👇🏽😊
  
 
