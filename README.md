@@ -29,6 +29,9 @@ CoreData, UserDefaults, Realm, Firebase
 
 Проект с парсингом JSON Rick and Morty https://github.com/IgorJu/Rick-and-Morty
 
+Проект с созданием вручную кастомных наград и использованием анимаций на SwiftUI https://github.com/IgorJu/AwardsCollectionApp.SUI
+
+
 Realm проект - https://github.com/IgorJu/RealmApp
 
 
