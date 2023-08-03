@@ -23,9 +23,12 @@ SOLID, KISS, DRY, YAGNI
 
 CocoaPods, SPM
  
-CoreData, UserDefaults, Realm, FireBase
+CoreData, UserDefaults, Realm, Firebase
+
+Realm Project -
 
 
+Firebase project 🔥 - https://github.com/IgorJu/firebase_Tasklist
 You can see part of my projects here 👇🏽😊
  
 
