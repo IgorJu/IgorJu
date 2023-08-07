@@ -36,7 +36,7 @@ https://github.com/IgorJu/AwardsCollectionApp.SUI - Проект с создан
 
 https://github.com/IgorJu/Login-Logout.SUI - Проект с авторизацией и передачей на данных на другой экран SwiftUI 
 
-https://github.com/IgorJu/RealmApp - Realm проект 
+https://github.com/IgorJu/RealmApp - Проект с использованием базы данных Realm: списки задач с возможностью редактировать задачу, удалять, добавлять, переносить в другую секцию, отображение данных можно остледить в приложении Realm Studio
 
 
 https://github.com/IgorJu/firebase_Tasklist - Firebase 🔥 проект(Firebase Authentification, Firebase Database) MVC  
