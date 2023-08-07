@@ -24,6 +24,8 @@ SOLID, KISS, DRY, YAGNI
 CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, Firebase
+
+
 https://github.com/IgorJu/TestPodborAuto.SUI - Тестовое приложение подбор авто с: фильтром по марке, поиском по марке и модели, сортировкой по цене, добавлением, редактированием информации об автомобиле; на SwiftUI
 
 https://github.com/IgorJu/We-are-Developers - Первый командный проект совместная работа в одном репозитории  
