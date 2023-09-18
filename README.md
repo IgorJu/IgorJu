@@ -25,6 +25,7 @@ CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, Firebase
 
+https://github.com/IgorJu/Hotel_TestTask_MVVM.SUI - Тестовое приложение для подбора отеля и номера: парсинг 3 API, ручная верстка по макету, валидация номера телефона и почты, парсинг картинок в tabView, на MVVM архитектуре. SwiftUI
 
 https://github.com/IgorJu/TestPodborAuto.SUI - Тестовое приложение подбор авто с: фильтром по марке, поиском по марке и модели, сортировкой по цене, добавлением авто, редактированием информации об автомобиле; на SwiftUI в качестве базы данных используется Realm database
 
