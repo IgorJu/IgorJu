@@ -15,6 +15,10 @@ My stack is that:
 Swift,
 SwiftUI, UIKit, iOS SDK,
 MVC, MVVM, MVP, VIPER, CleanSwift
+CI/CD
+DI
+
+
 
 OOP, GCD, Unit Test
 Work with HTTP, API, JSON
