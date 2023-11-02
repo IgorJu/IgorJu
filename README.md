@@ -32,6 +32,9 @@ CocoaPods, SPM
  
 CoreData, UserDefaults, Realm, Firebase
 
+https://github.com/IgorJu/Weather_MVVM.UIKit#weather_mvvmuikit - Приложение погода в стиле эпл. Стэк приложения: MVVM, UIKit, Combine, GCD, CoreLocation
+
+
 
 https://github.com/IgorJu/2D-Game.-UIKit/blob/main/README.md#2d-game-uikit - 2Д игра с использованием нативной анимации выбором врага, самолета, скорости игры. Реализовано сохранение всех настроек и данных пользователя. Архитектура MVC. UIKit
 
