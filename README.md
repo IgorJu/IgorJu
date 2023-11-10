@@ -44,7 +44,7 @@ https://github.com/IgorJu/Hotel_TestTask_MVVM.SUI - Приложение для 
 https://github.com/IgorJu/TestPodborAuto.SUI - Приложение подбор авто с: фильтром по марке, поиском по марке и модели, сортировкой по цене, добавлением авто, редактированием информации об автомобиле; на SwiftUI в качестве базы данных используется Realm database
 
 
-https://github.com/IgorJu/Rick-and-Morty - Проект с парсингом JSON Rick and Morty на MVC 
+
 
 https://github.com/IgorJu/AwardsCollectionApp.SUI - Проект с созданием вручную кастомных наград и использованием анимаций на SwiftUI
 
