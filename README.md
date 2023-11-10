@@ -48,7 +48,7 @@ https://github.com/IgorJu/TestPodborAuto.SUI - Приложение подбор
 
 https://github.com/IgorJu/AwardsCollectionApp.SUI - Проект с созданием вручную кастомных наград и использованием анимаций на SwiftUI
 
-https://github.com/IgorJu/Login-Logout.SUI - Проект с авторизацией и передачей на данных на другой экран SwiftUI 
+ 
 
 https://github.com/IgorJu/RealmApp - Проект с использованием базы данных Realm: списки задач с возможностью редактировать задачу, удалять, добавлять, переносить в другую секцию, отображение данных можно остледить в приложении Realm Studio
 
